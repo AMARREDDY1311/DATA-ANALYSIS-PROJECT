@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project answers the most critical business questions a company needs to understand its growth, customer base, and product performance. All analysis is written in **T-SQL** against a clean Gold layer Star Schema, covering **$29.3M in sales**, **18,484 customers**, and **27,659 orders** across a **37-month trading window (Dec 2010 – Jan 2014)**.
+This project answers the most critical business questions a company needs to understand its growth, customer base, and product performance. All analysis is written in **SQL** against a clean Gold layer Star Schema, covering **$29.3M in sales**, **18,484 customers**, and **27,659 orders** across a **37-month trading window (Dec 2010 – Jan 2014)**.
 
 ---
 
