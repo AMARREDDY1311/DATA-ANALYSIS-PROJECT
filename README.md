@@ -1,4 +1,4 @@
-# 📊 SQL Data Analysis — Adventure Works Data Warehouse
+# 📊 SQL Data Analysis —  Data Warehouse
 
 > End-to-end exploratory and business analysis of a retail cycling company's sales, customer, and product data — built on a production SQL Server data warehouse using the Medallion Architecture (Bronze → Silver → Gold).
 
